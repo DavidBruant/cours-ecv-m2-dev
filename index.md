@@ -1,8 +1,11 @@
 ---
-title: Accueil
+title: "Cours ECV M2 dev - 2023-2024"
 order: 0
+in_menu: true
 ---
-
-# L'Échappée Belle
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+- Bloc de compétence 1.2 - COLLECTE ET ANALYSE BESOIN CLIENT- ÉCRIT INDIVIDUEL + ORAL INDIVIDUEL ( M2)
+- Bloc de compétence 2.1 - CONCEVOIR ET NÉGOCIER UN PROJET DIGITAL - ÉCRIT COLLECTIF + ORAL COLLECTIF (M2)
+- Bloc de compétence 2.2 - FORMALISER LES DOCUMENTS DE RÉFÉRENCE DU PROJET DIGITAL - ÉCRIT INDIVIDUEL (M2)
+- Bloc de compétence 3.1 - DÉFINIR DES MÉTHODES ET MOBILISER DES RESSOURCES HUMAINES- MISE EN SITUATION PROFESSIONNELLE INDIVIDUELLE + ORAL INDIVIDUEL (M2)
+- Bloc de compétence 3.2 - PILOTER LA MISE EN ŒUVRE DU PROJET DIGITAL - MISE EN SITUATION PROFESSIONNELLE COLLECTIVE + ORAL COLLECTIF (M2)
+- Bloc de compétence 3.3 - MANAGER DES ÉQUIPES PLURIDISCIPLINAIRES EN MODE AGILE - MISE EN SITUATION PROFESSIONNELLE INDIVIDUELLE + ORAL INDIVIDUEL (M2) 
