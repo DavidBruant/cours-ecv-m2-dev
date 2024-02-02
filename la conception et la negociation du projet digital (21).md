@@ -46,6 +46,10 @@ in_menu: true
 **Présenter la proposition de projet formalisée au client interne ou externe**
 - Les questions, les interrogations et les objections sont traitées en fournissant des réponses argumentées et des éléments tangibles 
 
+## Évaluation
+
+ÉCRIT COLLECTIF + ORAL COLLECTIF (M2)
+
 
 ## Support de cours
 
