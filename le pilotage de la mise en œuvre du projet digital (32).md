@@ -1,7 +1,7 @@
 ---
 title: "Le pilotage de la mise en œuvre du projet digital (3.2)"
 order: 6
-in_menu: true
+in_menu: false
 ---
 ## Compétences et Critères
 

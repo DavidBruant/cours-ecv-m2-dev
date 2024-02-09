@@ -1,7 +1,7 @@
 ---
 title: "Collecte et analyse besoin client (1.2)"
 order: 2
-in_menu: true
+in_menu: false
 ---
 ## Compétences et critères
 

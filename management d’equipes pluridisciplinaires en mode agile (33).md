@@ -1,7 +1,7 @@
 ---
 title: "Management d’équipes pluridisciplinaires en mode agile (3.3)"
 order: 7
-in_menu: true
+in_menu: false
 ---
 ## Compétences & Critères
 
