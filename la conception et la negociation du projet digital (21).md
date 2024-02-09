@@ -1,7 +1,7 @@
 ---
 title: "La conception et la négociation du projet digital (2.1)"
 order: 3
-in_menu: false
+in_menu: true
 ---
 ## Compétences et critères
 
@@ -58,8 +58,13 @@ in_menu: false
   - audit sécurité
   - audit légal / RGPD / droit d'auteur
 
+- légal : **obligation de moyen** vs **obligation de résultat**
+
 - Animation de réunion
 
 - L'estimation dans le logiciel
   - chiffrage poker/fibonacci
   - calibrer les attentes 
+
+- budget
+  - estimation salaire 
