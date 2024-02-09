@@ -64,6 +64,7 @@ in_menu: true
 
 - L'estimation dans le logiciel
   - chiffrage poker/fibonacci
+  - taille de t-shirt
   - calibrer les attentes 
 
 - budget
