@@ -1,7 +1,7 @@
 ---
 title: "Cours ECV M2 dev - 2023-2024"
 order: 0
-in_menu: false
+in_menu: true
 ---
 - ✅ [1.2 : La collecte et l’analyse du besoin de clients internes ou externes](./collecte%20et%20analyse%20besoin%20client%20(12).html)
 - ✅ [2.1 - La conception et la négociation du projet digital](./la%20conception%20et%20la%20negociation%20du%20projet%20digital%20(21).html)
