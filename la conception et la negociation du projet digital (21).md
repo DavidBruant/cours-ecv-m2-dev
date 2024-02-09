@@ -68,4 +68,4 @@ in_menu: true
   - calibrer les attentes 
 
 - budget
-  - estimation salaire 
+  - [estimation salaire](https://code.travail.gouv.fr/outils/simulateur-embauche) 
