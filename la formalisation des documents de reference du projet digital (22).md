@@ -1,7 +1,7 @@
 ---
 title: "La formalisation des documents de référence du projet digital (2.2)"
 order: 4
-in_menu: false
+in_menu: true
 ---
 **En veillant à son adaptation au cadre méthodologique choisi, formaliser le cahier des charges du projet digital, en élaborant et/ou en supervisant la réalisation des documents de référence définissant la solution à développer et guidant l’action des différents contributeurs du projet**
 
@@ -19,7 +19,6 @@ in_menu: false
 **Elaborer le backlog de produit**
 - Le degré d’informations est la fois suffisamment précis et concis pour permettre une utilisation commode de la documentation
 
-
 **Créer les user stories**
 - Les critères de qualité et contraintes à prendre en compte sont explicités
 - Qualité formelle des documents de référence du projet
@@ -36,6 +35,8 @@ in_menu: false
 
 ## Support
 
+- Un cahier des charges, c'est culture légale, culture "cycle en V". Un document figé alors que le besoin peut changer
+- Pas obligé de spécifier, mais la documentation, c'est bien pour les personnes suivantes
 - Équilibre oral/écrit
 - L'écrit comme archivage/mémoire du projet
 - L'écrit comme outil défensif (en milieu hostile)
