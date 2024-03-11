@@ -1,7 +1,7 @@
 ---
 title: "Le pilotage de la mise en œuvre du projet digital (3.2)"
 order: 6
-in_menu: false
+in_menu: true
 ---
 ## Compétences et Critères
 
@@ -43,3 +43,12 @@ in_menu: false
 ## Évaluation
 
 MISE EN SITUATION PROFESSIONNELLE COLLECTIVE + ORAL COLLECTIF (M2) 
+
+## Support
+
+- Favoriser le relationnel aux contrats (principe du Manifeste Agile)
+- Communication
+  - Prendre ses responsabilités
+  - Communiquer de manière honnête et complète, notamment sur ses propres limites et les risques que les personnes non-techniques ne peuvent peut-être pas anticiper. Anticiper ces risques, notamment sur le déploiement final
+- Outil de suivi de budget
+- Outil de suivi du projet (board) 
