@@ -41,3 +41,4 @@ in_menu: true
   - Les situations de recrutement ne sont pas représentatives des situations de travail réel
   - Nous avons des biais sexistes, racistes, validistes de tous les côtés, le plus souvent inconscient. Tirer au hasard est une des méthodes de recrutement les moins pires en terme de discriminations.
   - nous apprenons tout le temps dans notre métier. Il est donc très ok de recruter des personnes qui n'ont pas déjà les compétences. La motivation et le relationnel comptent beaucoup + ! 
+- La notion de "ressource humaine" est à vomir 
