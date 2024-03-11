@@ -1,7 +1,7 @@
 ---
 title: "Management d’équipes pluridisciplinaires en mode agile (3.3)"
 order: 7
-in_menu: false
+in_menu: true
 ---
 ## Compétences & Critères
 
@@ -36,3 +36,17 @@ in_menu: false
 ## Évaluations
 
 MISE EN SITUATION PROFESSIONNELLE INDIVIDUELLE + ORAL INDIVIDUEL (M2) 
+
+## Support
+
+> Les rôles, missions, responsabilités et périmètres d’intervention de chaque collaborateur sont précisément définis
+
+- Ou pas. La même phrase sans "de chaque collaborateur". On peut aussi faire confiance à l'équipe pour s'auto-organiser une fois que les rôles/missions/responsabilité/périmètres sont établis
+- Attention à ne pas mettre en difficulté des personnes qui ne sont pas habituées à des hauts niveaux de responsabilité
+
+> Les situations conflictuelles sont traitées et résolues dans le respect des intérêts du collectif et de la continuité du projet
+
+- Quand le projet aura été abandonné, les personnes auront toujours les cicatrices d'un conflit mal géré. Privilégier les personnes, toujours
+- Une agression n'est pas un conflit
+- Demander de l'aide extérieure quand on ne sait pas gérer un conflit
+- les rétrospectives et de manière générale, parler des émotions comme hygiène pour prévenir les conflits 
