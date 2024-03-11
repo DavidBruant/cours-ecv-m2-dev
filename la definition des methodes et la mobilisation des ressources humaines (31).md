@@ -1,7 +1,7 @@
 ---
 title: "La définition des méthodes et la mobilisation des ressources humaines (3.1)"
 order: 5
-in_menu: true
+in_menu: false
 ---
 ## Compétences et critères
 
