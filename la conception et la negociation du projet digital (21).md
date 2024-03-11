@@ -1,7 +1,7 @@
 ---
 title: "La conception et la négociation du projet digital (2.1)"
 order: 3
-in_menu: true
+in_menu: false
 ---
 ## Compétences et critères
 

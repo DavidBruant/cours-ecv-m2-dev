@@ -1,7 +1,7 @@
 ---
 title: "La formalisation des documents de référence du projet digital (2.2)"
 order: 4
-in_menu: true
+in_menu: false
 ---
 **En veillant à son adaptation au cadre méthodologique choisi, formaliser le cahier des charges du projet digital, en élaborant et/ou en supervisant la réalisation des documents de référence définissant la solution à développer et guidant l’action des différents contributeurs du projet**
 
